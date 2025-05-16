@@ -1,0 +1,6 @@
+@SecondMicroserviceRabbitMQ_HostAddress = http://localhost:5218
+
+GET {{SecondMicroserviceRabbitMQ_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
